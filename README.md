@@ -11,3 +11,9 @@ Loads a JSON file with a single conversation inside. As of now, you have to manu
 ### Check Connection
 
 Checks whether a connection with Twitter can be established by pinging it. So far useless, I plan to implement a feature to look up a user's current username, since the archive Twitter provides only stores their numeric UUID and not their username.
+
+## Planned Features
+
+### Load Bulk
+
+Load the entire direct-messages.js and list all conversations inside, allowing users to choose which one they want to read.

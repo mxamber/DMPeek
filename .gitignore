@@ -1,0 +1,10 @@
+*.csproj*
+*.sln
+bin/*
+obj/*
+*.config
+*.json
+icon/*
+screenshots/*
+*.md
+LICENSE
